@@ -1,0 +1,34 @@
+{
+    "tech": {
+        "Wired": "https://www.wired.com",
+        "PCMag": "https://www.pcmag.com",
+        "Hacker News": "https://news.ycombinator.com",
+        "The Verge": "https://www.theverge.com/",
+        "PCWorld": "https://www.pcworld.com/"
+    },
+    "sport": {
+        "Sky Sports": "https://www.skysports.com/",
+        "ESPN": "https://www.espn.com",
+        "Fox Sports": "https://www.foxsports.com/"
+    },
+    "usa": {
+        "The New York Times": "https://www.nytimes.com/",
+        "The Washington Post": "https://www.washingtonpost.com/",
+        "NPR": "https://www.npr.org/",
+        "CNN": "https://edition.cnn.com/",
+        "NBC News": "https://www.nbcnews.com/",
+        "U.S. News & World Report": "https://www.usnews.com/"
+    },
+    "india": {
+        "The Indian Express": "https://indianexpress.com/",
+        "India Today": "https://www.indiatoday.in/india",
+        "The Hindu": "https://www.thehindu.com/news/",
+        "NDTV": "https://www.ndtv.com/"
+    },
+    "biz": {
+        "NBC News—Business": "https://www.nbcnews.com/business",
+        "CNBC": "https://www.cnbc.com/business/",
+        "Business Insider": "https://www.businessinsider.com",
+        "Fox Business": "https://www.foxbusiness.com/"
+    }
+}
