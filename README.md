@@ -4,9 +4,9 @@
 NewsAggregator is a Python script that fetches and summarises news articles from numerous sources and presents them in an easily readable manner. 
 
 ## Installation
-NewsAggregator requires Python 3 to be installed on your system, along with the primary dependency package, `newspaper`.
+NewsAggregator requires Python 3 to be installed on your system, along with the primary dependency package, [newspaper](https://github.com/codelucas/newspaper).
 
-### Setting up for Python 3
+### Setting Up for Usage with Python 3
 1. [Install Python 3](https://www.python.org/downloads/) on your system. If you are running on macOS, your system will already have a version of Python 2.x installed. However, NewsAggregator only works with Python 3 and above!
 2. Clone/download this repository and place it in a folder. Technically, you will only require `main.py` and `sources.json`.
 3. In terminal, navigate to this folder.
